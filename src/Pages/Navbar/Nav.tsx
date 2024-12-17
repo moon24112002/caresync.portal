@@ -31,7 +31,7 @@ function Nav() {
       <div className={styles.nav_right}>
         <div className={styles.nav_right_help}>Need Help</div>
         <div className={styles.nav_right_profile}>
-          <span>
+          <span className={styles.profileIcon}>
             <CgProfile />
           </span>
         </div>
